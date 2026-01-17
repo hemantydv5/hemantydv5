@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-**hemantydv5/hemantydv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**hemantydv5/hemantydv5** is a ✨ _special_ ✨ 
 Here are some ideas to get you started:
 
 
