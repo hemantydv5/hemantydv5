@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-# Hi 👋, I'm Hemu
 
 ### A passionate .NET Full Stack Developer from India 🇮🇳
 
