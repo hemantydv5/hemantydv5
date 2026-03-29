@@ -1,21 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hemant Yadav</h1>
+<h3 align="center">.NET Full Stack Developer | ASP.NET Core | SQL Server | C#</h3>
 
+<p align="center">
+Passionate developer focused on building scalable Web Applications using Microsoft Technologies.
+Currently learning AI with C# and improving Full Stack Development skills.
+</p>
 
-**hemantydv5/hemantydv5** is a ✨ _special_ ✨ 
-Here are some ideas to get you started:
+---
 
+## 🚀 About Me
 
-### A passionate .NET Full Stack Developer from India 🇮🇳
+- 💻 .NET Full Stack Developer (ASP.NET Core, MVC, Web API)
+- 🗄️ Strong experience with SQL Server & Entity Framework
+- 🧠 Currently learning AI integration with C#
+- 🌐 Experience building real-world projects (N-Tier Architecture)
+- 🔧 Interested in Clean Architecture & Best Practices
+- 📍 India
 
-- 🔭 I’m working on ASP.NET Core & SQL Server
-- 🌱 Learning AI with C#
-- 💬 Ask me about C#, MVC, Web API, SQL Server
-- 📫 Email: hemu@gmail.com
+---
 
-### Connect with me:
-[LinkedIn](https://linkedin.com) | [YouTube](https://youtube.com)
+## 🛠️ Tech Stack
 
-### Languages and Tools:
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
+### Backend
+- C#
+- ASP.NET Core
+- .NET MVC
+- Web API
+- Entity Framework
+- LINQ
+
+### Database
+- SQL Server
+- Stored Procedures
+- Database Design
+- Performance Optimization
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Angular (Learning)
+
+### Tools
+- Visual Studio
+- VS Code
+- Git & GitHub
+- IIS Server
+- Postman
+- SSMS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hemantydv5&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantydv5&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 Hospital Management System
+ASP.NET Core Web API using N-Tier Architecture with SQL Server
+
+### 🎵 Concert Booking System
+Full Stack Web Application with Authentication & Database Integration
+
+### 📧 Email Automation
+Background Services & Email Scheduling using .NET
+
+---
+
+## 🌱 Currently Learning
+- AI with C#
+- Angular
+- Cloud Deployment (AWS / IIS)
+- Clean Architecture
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
+- Email
+
+---
+
+⭐ If you like my work, consider giving a star to repositories!
