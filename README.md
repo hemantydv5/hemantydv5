@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=170&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=170&section=header&animation=fadeIn" width="100%" />
 </p>
 
 <h2>Hi 👋, I'm Hemant Yadav</h2>
