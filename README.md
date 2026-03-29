@@ -1,75 +1,83 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=header&animation=fadeIn" width="100%" />
-</p>
+<h1 align="center">Hi 👋, I'm Hemant Yadav</h1>
+<h3 align="center">.NET Full Stack Developer | ASP.NET Core | Python | GenAI | SQL Server</h3>
 
-<h2 align="center">Hi 👋, I'm Hemant Yadav</h2>
+<p align="center">
+Passionate developer focused on building scalable Web Applications using Microsoft Technologies.
+Currently learning AI with C#, Python and Generative AI to build intelligent applications.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 .NET Full Stack Developer (ASP.NET Core, MVC, Web API)
-- 🗄️ SQL Server & Entity Framework
-- 🧠 Learning Python & Generative AI
-- 🌐 N-Tier Architecture projects
-- 🔧 Clean Architecture focus
+- 💻 .NET Full Stack Developer
+- 🤖 Learning Generative AI (GenAI)
+- 🐍 Exploring Python for AI & Automation
+- 🔭 Building ASP.NET Core Web API projects
+- 🧠 Interested in Cybersecurity & Ethical Hacking
+- 🏗️ Strong knowledge of N-Tier Architecture
+- 💬 Ask me about ASP.NET Core, SQL Server, Web API, Python basics
+- 🎯 Goal: Become AI-powered Full Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-**Backend**
-- C#
-- ASP.NET Core
-- Web API
-- Entity Framework
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,js,html,css,bootstrap,angular,git,github,visualstudio,vscode,mysql" />
+</p>
 
-**Database**
-- SQL Server
-- Stored Procedures
+---
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+## 🤖 AI & GenAI Skills
 
-**AI**
-- Python
-- Generative AI
+- Generative AI fundamentals
+- AI with C#
+- Python for AI
+- Prompt Engineering
+- API Integration with AI models
+- Basic Machine Learning concepts
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=hemantydv5&show_icons=true&theme=tokyonight" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantydv5&layout=compact&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## 📌 Projects
+## 📂 Featured Projects
 
-- 🏥 Hospital Management System
-- 🎵 Concert Booking System
-- 📧 Email Automation
+| Project | Technology | Description |
+|--------|------------|------------|
+| Hospital Management System | ASP.NET Core, SQL Server | Patient, Doctor, Appointment management |
+| AI Text Generator | Python, GenAI API | Generate content using AI |
+| E-Commerce API | ASP.NET Core Web API | Product, Order, Authentication |
+| Employee Management | MVC, EF | CRUD operations with database |
 
 ---
 
-## 👀 Visitors
+## 📫 Connect With Me
 
-<p align="center">
+<p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=hemantydv5&label=Views&color=2563eb&style=flat" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=80&section=footer" width="100%"/>
-</p>
+## ⚡ Fun Fact
+
+I enjoy learning AI, building APIs and creating real-world applications 🚀
