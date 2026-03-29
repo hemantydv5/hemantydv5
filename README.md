@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=180&section=header&text=Hemant%20Yadav&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=180&section=header&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">.NET Full Stack Developer</h2>
