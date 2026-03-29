@@ -14,7 +14,6 @@ Currently learning Python, Generative AI and building intelligent applications.
 ---
 
 ## 🚀 About Me
-## 🚀 About Me
 
 - 💻 .NET Full Stack Developer
 - 🔭 Building web applications using ASP.NET Core & Web API
@@ -27,7 +26,6 @@ Currently learning Python, Generative AI and building intelligent applications.
 
 ---
 
-## 🛠️ Technologies & Tools
 
 ## 🛠️ Technologies & Tools
 
@@ -79,18 +77,6 @@ Currently learning Python, Generative AI and building intelligent applications.
 
 </p>
 
----
-
-## 📂 Featured Projects
-
-| Project | Technology | Description |
-|--------|------------|------------|
-| Hospital Management System | ASP.NET Core, SQL Server | Patient, Doctor, Appointment management |
-| Concert Booking System | ASP.NET Core MVC | Event booking & authentication |
-| Email Automation | .NET Background Service | Scheduled email sending |
-| AI Text Generator | Python, GenAI | Generate text using AI APIs |
-
----
 
 ## 📫 Connect With Me
 
