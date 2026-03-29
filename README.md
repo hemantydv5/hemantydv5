@@ -14,34 +14,38 @@ Currently learning Python, Generative AI and building intelligent applications.
 ---
 
 ## 🚀 About Me
+## 🚀 About Me
 
 - 💻 .NET Full Stack Developer
-- 🔭 Building ASP.NET Core Web API projects
-- 🗄️ Strong experience with SQL Server & Entity Framework
-- 🏗️ Strong knowledge of N-Tier Architecture
+- 🔭 Building web applications using ASP.NET Core & Web API
+- 🗄️ Working with SQL Server & Entity Framework
+- 🏗️ Experience with N-Tier Architecture
 - 🤖 Learning Generative AI (GenAI)
-- 🐍 Exploring Python for AI & automation
-- 🧠 Interested in Cybersecurity & Ethical Hacking
-- 🎯 Goal: AI-powered Full Stack Developer
+- 🐍 Learning Python for AI development
+- 🔗 Exploring .NET with AI integration
+- 🎯 Goal: build smart and scalable applications
 
 ---
 
 ## 🛠️ Technologies & Tools
 
+## 🛠️ Technologies & Tools
+
 <p>
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,js,html,css,bootstrap,git,github,visualstudio,vscode,mysql" />
-
-<img src="https://img.shields.io/badge/IIS-Server-blue?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,js,html,css,bootstrap,git,github,visualstudio,vscode" />
 
 <img src="https://img.shields.io/badge/SQL_Server-Database-red?style=for-the-badge&logo=microsoftsqlserver" />
 
 <img src="https://img.shields.io/badge/Entity_Framework-ORM-purple?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/GenAI-AI-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IIS-Server-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/.NET-AI-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/GenAI-AI-darkgreen?style=for-the-badge" />
 
 </p>
-
 ---
 
 ## 🤖 AI & GenAI Skills
