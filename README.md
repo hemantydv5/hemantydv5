@@ -2,11 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=170&section=header&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Hemant Yadav</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=2563EB&center=true&vCenter=true&width=650&lines=.NET+Full+Stack+Developer;ASP.NET+Core+%7C+SQL+Server+%7C+C%23;Python+%7C+Generative+AI;Building+Scalable+Applications" />
-</p>
+<h2>Hi 👋, I'm Hemant Yadav</h2>
 
 ---
 
