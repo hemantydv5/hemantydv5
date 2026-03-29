@@ -92,7 +92,7 @@ Background Services & Email Scheduling using .NET
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hemantydv5&label=Profile%20views&color=2563eb&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=hemantydv5&label=Profile%20views&color=2563eb&style=flat" width="100%" />
 
 </p>
 
