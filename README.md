@@ -69,11 +69,5 @@ I love writing **clean, simple, and maintainable code** that solves real-world p
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=hemantydv5&label=Profile%20views&color=2563eb&style=flat" />
-
-</p>
-
----
-
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=80&section=footer" width="100%"/>
 </p>
