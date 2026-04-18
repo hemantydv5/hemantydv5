@@ -2,81 +2,65 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=header&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Hemant Yadav</h1>
+# Hi there, I'm Hemant Yadav 👋
 
-<h3 align="center">.NET Full Stack Developer | ASP.NET Core | Python | GenAI | SQL Server</h3>
+### 🚀 ASP.NET Core Developer | Web API | SQL Server | Cloud & AI Enthusiast
 
-<p align="center">
-Passionate developer focused on building scalable web applications using Microsoft technologies.
-Currently learning Python, Generative AI and building intelligent applications.
-</p>
+I'm a passionate **ASP.NET Core Developer** with **1+ year of experience** in designing, 
+developing, and maintaining web applications using modern Microsoft technologies.
 
----
-
-## 🚀 About Me
-
-- 💻 .NET Full Stack Developer
-- 🔭 Building web applications using ASP.NET Core & Web API
-- 🗄️ Working with SQL Server & Entity Framework
-- 🏗️ Experience with N-Tier Architecture
-- 🤖 Learning Generative AI (GenAI)
-- 🐍 Learning Python for AI development
-- 🔗 Exploring .NET with AI integration
-- 🎯 Goal: build smart and scalable applications
+I love writing **clean, simple, and maintainable code** that solves real-world problems.
 
 ---
 
+## 🔹 Tech Stack & Skills
 
-## 🛠️ Technologies & Tools
+| Category | Technologies |
+|---|---|
+| 💻 **Language** | C# |
+| 🏗️ **Framework** | ASP.NET Core MVC, Web API |
+| 🗄️ **Database** | SQL Server, ADO.NET |
+| 🌐 **Frontend** | JavaScript, jQuery |
+| ☁️ **Learning** | Cloud Computing, AI Integration |
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,js,html,css,bootstrap,git,github,visualstudio,vscode" />
-
-<img src="https://img.shields.io/badge/SQL_Server-Database-red?style=for-the-badge&logo=microsoftsqlserver" />
-
-<img src="https://img.shields.io/badge/Entity_Framework-ORM-purple?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/IIS-Server-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/.NET-AI-black?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/GenAI-AI-darkgreen?style=for-the-badge" />
-
-</p>
 ---
 
-## 🤖 AI & GenAI Skills
+## 🛠️ Languages & Tools
 
-- Generative AI fundamentals
-- AI with C#
-- Python for AI
-- Prompt Engineering
-- API Integration with AI models
-- Basic Machine Learning concepts
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- 🌩️ **Cloud Computing** — Exploring cloud platforms to deploy modern applications
+- 🤖 **AI Integration** — Bringing AI capabilities into ASP.NET Core solutions
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemantydv5&show_icons=true&theme=tokyonight)
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=hemantydv5&show_icons=true&theme=tokyonight" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantydv5&layout=compact&theme=tokyonight" />
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantydv5&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 Contribution Streak
+## 📫 Connect with Me
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantydv5)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantydv5@gmail.com)
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantydv5&theme=tokyonight" />
+---
 
-</p>
-
+💡 *"Always learning, always growing!"*
 
 ## 📫 Connect With Me
 
