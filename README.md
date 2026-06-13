@@ -5,7 +5,7 @@
 
 ### 🚀 ASP.NET Core Developer | Web API | SQL Server | AI Integration Developer
 
-I'm a passionate **ASP.NET Core Developer** with **1+ year of experience** in designing, 
+I'm a passionate **ASP.NET Core Developer** with **1.5+ year of experience** in designing, 
 developing and maintaining web applications using modern Microsoft technologies.
 
 I love writing **clean, simple, and maintainable code** that solves real-world problems.
