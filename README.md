@@ -60,7 +60,7 @@ I love writing **clean, simple, and maintainable code** that solves real-world p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantydv5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantydv5@gmail.com)
 
-💡 *"Always learning, always growing!"*
+<p align="center">💡 *"Always learning, always growing!"*</p>
 
 <p align="center">
 
