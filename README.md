@@ -18,7 +18,7 @@ I love writing **clean, simple, and maintainable code** that solves real-world p
 |---|---|
 | 💻 **Language** | C#, Python |
 | 🏗️ **Framework** | ASP.NET Core MVC, Web API |
-| 🗄️ **Database** | SQL Server, ADO.NET |
+| 🗄️ **Database** | SQL Server, PostgreSQL, ADO.NET |
 | 🌐 **Frontend** | JavaScript, jQuery |
 | 🖥️ **Server** | IIS Server |
 | ☁️ **Learning** | Cloud Computing, AI Integration |
@@ -61,10 +61,7 @@ I love writing **clean, simple, and maintainable code** that solves real-world p
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantydv5@gmail.com)
 
 ---
-
 💡 *"Always learning, always growing!"*
-
-## 👀 Profile Visitors
 
 <p align="center">
 
