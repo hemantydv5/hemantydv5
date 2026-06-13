@@ -6,7 +6,7 @@
 ### 🚀 ASP.NET Core Developer | Web API | SQL Server | AI Integration Developer
 
 I'm a passionate **ASP.NET Core Developer** with **1+ year of experience** in designing, 
-developing, and maintaining web applications using modern Microsoft technologies.
+developing and maintaining web applications using modern Microsoft technologies.
 
 I love writing **clean, simple, and maintainable code** that solves real-world problems.
 
@@ -61,6 +61,5 @@ I love writing **clean, simple, and maintainable code** that solves real-world p
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantydv5@gmail.com)
 <p align="center">💡 *"Always learning, always growing!"*</p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hemantydv5&label=Profile%20views&color=2563eb&style=flat" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=80&section=footer" width="100%"/>
 </p>
